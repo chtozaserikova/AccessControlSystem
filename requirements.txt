@@ -1,0 +1,15 @@
+asgiref
+cycler
+Django
+future
+kiwisolver
+matplotlib
+opencv-python
+Pillow
+pyparsing
+python-dateutil
+pytz
+six
+sqlparse
+torch
+torchvision
